@@ -1,5 +1,5 @@
 # a_test_mall
-> author: xuhaoya
+## author: xuhaoya
 > mall_manage
 
 ## Build Setup
